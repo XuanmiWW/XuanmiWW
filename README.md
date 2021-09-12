@@ -6,7 +6,7 @@ I did 2 years of Informatic engineering but left it to study Marketing and Busin
 Right now i am in a moment in life where i have plenty of time to study and i am looking for oportunities to keep growing.
 I am really interested in the course, i can put my experience in coding here:
 
-Althought doing 2 years of Informatic engineering there i didn't learnt more than C and C++ and how important syntaxis and being clean is important.
+Althought doing 2 years of Informatic engineering there i didn't learnt more than C and C++ and how important syntax and being clean is important.
 My real experience with coding, servers, and machine code comes due that my father have the career of Informatic Engineering and have been
 working in his own business called (Basis Assesoria Informàtica S.L.).
 
