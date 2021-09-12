@@ -1,4 +1,5 @@
 Hi i am Joan Miquel Roca,
+
 But you can call me Xuanmi, i am a 25 year old student from Spain.
 
 I did 2 years of Informatic engineering but left it to study Marketing and Business Communication that i will finish in 1 year and a half.
